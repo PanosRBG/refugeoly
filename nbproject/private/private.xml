@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Java">
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/Game.java</file>
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/Board.java</file>
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/WinAction.java</file>
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/Square.java</file>
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/Refugee.java</file>
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/GiveLifeAction.java</file>
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/ReceiverEntity.java</file>
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/DieAction.java</file>
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/GiverEntity.java</file>
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/PayMoneyAction.java</file>
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/StayAction.java</file>
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/Refugeoly.java</file>
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/GoToAction.java</file>
+            <file>file:/home/panji/Documents/Code/Java/Refugeoly/src/refugeoly/RollDiceAction.java</file>
+        </group>
+        <group name="Homework"/>
+        <group name="Programs">
+            <file>file:/D:/Users/Panjii/Documents/Code/Java/Refugeoly/src/refugeoly/ReceiveAction.java</file>
+            <file>file:/D:/Users/Panjii/Documents/Code/Java/Refugeoly/src/refugeoly/GiveLifeAction.java</file>
+            <file>file:/D:/Users/Panjii/Documents/Code/Java/Refugeoly/src/refugeoly/Game.java</file>
+            <file>file:/D:/Users/Panjii/Documents/Code/Java/Refugeoly/src/refugeoly/DieAction.java</file>
+            <file>file:/D:/Users/Panjii/Documents/Code/Java/Refugeoly/src/refugeoly/RollDiceAction.java</file>
+            <file>file:/D:/Users/Panjii/Documents/Code/Java/Refugeoly/src/refugeoly/StayAction.java</file>
+            <file>file:/D:/Users/Panjii/Documents/Code/Java/Refugeoly/src/refugeoly/PayMoneyAction.java</file>
+            <file>file:/D:/Users/Panjii/Documents/Code/Java/Refugeoly/src/refugeoly/GoToAction.java</file>
+            <file>file:/D:/Users/Panjii/Documents/Code/Java/Refugeoly/src/refugeoly/ChoiceAction.java</file>
+            <file>file:/D:/Users/Panjii/Documents/Code/Java/Refugeoly/src/refugeoly/WinAction.java</file>
+            <file>file:/D:/Users/Panjii/Documents/Code/Java/Refugeoly/src/refugeoly/RollBackAction.java</file>
+        </group>
+        <group name="Lecture Programs">
+            <file>file:/D:/Users/Panjii/Documents/Code/Java/Homework/Refugeoly/src/refugeoly/Refugeoly.java</file>
+        </group>
+    </open-files>
+</project-private>

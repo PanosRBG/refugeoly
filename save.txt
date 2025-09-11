@@ -1,0 +1,9 @@
+Turn: 1
+Player: 0
+[Name]: NGO Bank [Money]: 10000.0
+[Name]: Mafia Bank [Money]: 0.0
+[Name]: Panos
+[Money]: 10000.0
+[Expenses]: 0.0
+[Square]: 0
+
